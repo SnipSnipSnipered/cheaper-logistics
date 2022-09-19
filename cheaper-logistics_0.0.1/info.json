@@ -1,9 +1,0 @@
-{
-    "name": "cheaper-logistics",
-    "version": "0.0.1",
-    "title": "Cheaper logistics",
-    "author": "SnipSnipSnipered",
-    "factorio_version": "1.1",
-    "dependencies": ["base >= 1.1"],
-    "description": "This mod modifies the recipes for all tiers of transport belts, splitters and underground belts to make them less expensive."
-}
