@@ -26,7 +26,7 @@
     }
     data.raw["recipe"]["express-transport-belt"].result_count = 2
 
---Require previous tiers?
+--Require previous tiers? YES
 if settings.startup["cl-req-prev"].value == true then 
     data.raw["recipe"]["fast-underground-belt"].ingredients =
     {
@@ -54,7 +54,7 @@ if settings.startup["cl-req-prev"].value == true then
         {type="fluid", name="lubricant", amount=80},
     }
 end
-
+--Require previous tiers? NO
 if settings.startup["cl-req-prev"].value == false then
     data.raw["recipe"]["fast-underground-belt"].ingredients =
     {
