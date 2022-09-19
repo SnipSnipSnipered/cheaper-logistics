@@ -1,0 +1,12 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 2022.09.20
+  Features:
+    - Introduced a setting to allow users to choose between recipes that require the previous tier to craft (like in vanilla), or custom recipes that do not require the previous tiers.
+  Locale:
+    - English is now available.
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2022.05.28
+  Features:
+    - Cheaper recipes for all logistics items.
