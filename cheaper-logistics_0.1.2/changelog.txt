@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.2
+Date: 2022.10.10
+  Changes:
+    - Changed the recipes for underground belts to no longer require the appropriate belt, but instead require just gears. 
+---------------------------------------------------------------------------------------------------
 Version: 0.1.1
 Date: 2022.09.20
   Features:
