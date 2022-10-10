@@ -30,7 +30,7 @@
 if settings.startup["cl-req-prev"].value == true then 
     data.raw["recipe"]["fast-underground-belt"].ingredients =
     {
-        {"fast-transport-belt", 7},
+        {"iron-gear-wheel", 24},
         {"underground-belt", 2},
     }
     data.raw["recipe"]["fast-splitter"].ingredients = 
@@ -41,7 +41,7 @@ if settings.startup["cl-req-prev"].value == true then
     }
     data.raw["recipe"]["express-underground-belt"].ingredients =
     {
-        {"express-transport-belt", 9},
+        {"iron-gear-wheel", 48},
         {"fast-underground-belt", 2},
         {type="fluid", name="lubricant", amount=80},
     }
